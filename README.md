@@ -14,7 +14,6 @@ In late February 2025, Stable Diffusion Forge (WebUI Forge) implemented a stealt
 - **Batch Processing**: Process multiple images at once or entire folders
 - **Subfolder Support**: Option to include all subfolders when processing a directory
 - **Output Options**: Save to specified directory or replace files in their original location
-- **Multiprocessing**: Uses multiple CPU cores for faster processing of large batches
 
 ## Install
 ---
