@@ -73,7 +73,7 @@ This extension operates entirely locally on your machine and does not send any d
 Thanks to all contributors and the Stable Diffusion community for their support and feedback.
 
 ### Developers
-[@if-if-if](https://github.com/if-if-if), [@UltraK18](https://github.com/UltraK18)
+[@Tokgi-if-Nex](https://github.com/Tokgi-if-Nex), [@UltraK18](https://github.com/UltraK18)
 
 ## Caveats
 - **Output Path Requirement**: For reliable image processing, a valid output path must be specified either in the "Output Path" field or via the "Save Output Path Setting" button.  
