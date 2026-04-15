@@ -73,7 +73,7 @@
 모든 기여자와 Stable Diffusion 커뮤니티의 지원 및 피드백에 감사드립니다.
 
 ### 개발자
-[@if-if-if](https://github.com/if-if-if), [@UltraK18](https://github.com/UltraK18)
+[@Tokgi-if-Nex](https://github.com/Tokgi-if-Nex), [@UltraK18](https://github.com/UltraK18)
 
 ## 주의 사항
 - **출력 경로 필수**: 안정적인 이미지 처리를 위해 "Output Path" 필드나 "Save Output Path Setting" 버튼을 통해 유효한 출력 경로를 지정해야 합니다.  
